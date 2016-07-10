@@ -1,0 +1,1 @@
+java -jar C:\Work\artefacts\hateoas-eureka-server\target\bookstore-eureka-server-1.0-SNAPSHOT.jar 

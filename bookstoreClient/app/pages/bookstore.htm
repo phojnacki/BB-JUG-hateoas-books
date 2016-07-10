@@ -1,0 +1,7 @@
+<h2>Bookstore for <b>{{ user }}</b></h2><br>
+
+<div ng-repeat="b in bookListResult">
+    <book-selection book-object="b" />
+</div>
+<a href="#/author" class="btn btn-primary">Show author</a>
+<a href="#/order" class="btn btn-primary">Order</a>
